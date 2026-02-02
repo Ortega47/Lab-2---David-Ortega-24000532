@@ -2,6 +2,8 @@
 # Lab-2---David-Ortega-24000532--parte-2
 link:
 https://github.com/Ortega47/Lab-2---David-Ortega-24000532--parte-2
+Link videos Youtube:
+https://youtu.be/BxFS3tZicuA
 
 
 Ejercicio 1: RPG Character Sheet
